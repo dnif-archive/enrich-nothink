@@ -1,0 +1,4 @@
+enrichment_plugin:
+  NOTHINK_IP_SSH_SOURCE: http://www.nothink.org/blacklist/blacklist_ssh_day.txt
+  NOTHINK_IP_SNMP_SOURCE: http://www.nothink.org/blacklist/blacklist_snmp_day.txt
+  NOTHINK_IP_TELNET_SOURCE: http://www.nothink.org/blacklist/blacklist_telnet_day.txt
