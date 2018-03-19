@@ -17,8 +17,6 @@
  ##### NoThink Honeypot SNMP feeds
    For more information visit  http://www.nothink.org/honeypot_snmp.php
    
-#### Contact Information
-matteo.cantoni@nothink.org
 
 ### Using the NoThink feed API
  The NoThink feed API is found on github at
