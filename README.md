@@ -24,7 +24,7 @@ Outbound access required to request NoThink feed API
 | Protocol   | Source IP  | Source Port  | Direction	 | Destination Domain | Destination Port  |  
 |:------------- |:-------------|:-------------|:-------------|:-------------|:-------------|  
 | TCP | AD,A10 | Any | Egress	| github.com | 443 |
-| TCP | AD,A10 | Any | Egress	| www.nothink.org | 443 | 
+| TCP | AD,A10 | Any | Egress	| nothink.org | 443 | 
 
 ### Using the NoThink feed API
  The NoThink feed API is found on github at
