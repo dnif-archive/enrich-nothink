@@ -18,6 +18,14 @@
    For more information visit  http://www.nothink.org/honeypot_snmp.php
    
 
+### PRE-REQUISITES to use NoThink feed API and DNIF  
+Outbound access required to request NoThink feed API
+
+| Protocol   | Source IP  | Source Port  | Direction	 | Destination Domain | Destination Port  |  
+|:------------- |:-------------|:-------------|:-------------|:-------------|:-------------|  
+| TCP | AD,A10 | Any | Egress	| github.com | 443 |
+| TCP | AD,A10 | Any | Egress	| www.nothink.org | 443 | 
+
 ### Using the NoThink feed API
  The NoThink feed API is found on github at
  
